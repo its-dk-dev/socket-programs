@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Messager app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/its-dk-dev/Messanger.git"
+  },
+  "author": "Dnyaneshwar Kanawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/its-dk-dev/Messanger/issues"
+  },
+  "homepage": "https://github.com/its-dk-dev/Messanger#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
